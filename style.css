@@ -28,6 +28,12 @@ body {
   padding-top: 3rem;
 
 }
+.part1 h1{
+    color: hsl(0, 0%, 100%);
+}
+.p p{
+    color: hsl(217, 12%, 63%);
+}
 .numbers {
   display: flex;
   gap: 1rem;
