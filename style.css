@@ -61,3 +61,8 @@ button{
     border-radius: 1rem;
     color: hsl(0, 0%, 100%);
 }
+@media screen and (max-width:600px) {
+    .container{
+      width: 80%;
+    }
+}
